@@ -1,14 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-package lab2a;
-
-/**
- *
- * @author jmd11631
- */
 import java.io.*;
 import java.text.*;
 public class GradeComputation {
